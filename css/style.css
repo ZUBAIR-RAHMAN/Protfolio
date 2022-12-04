@@ -1,0 +1,23 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+h1{
+    font-size: 48px;
+}
+.name{
+    color: orange;
+}
+
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+section{
+    display: flex;
+}
+section img{
+    width: 70%;
+}
+section a{
+    text-decoration: none;
+}
